@@ -66,9 +66,9 @@
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-Contact_Me-informational?style=flat&logo=gmail&color=red" /></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/github-Profile-informational?style=flat&logo=github&color=black" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/linkedin-Connect-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:hamkarifai49@gmail.com"><img src="https://img.shields.io/badge/email-Contact_Me-informational?style=flat&logo=gmail&color=red" /></a>
+  <a href="https://github.com/Hamkawastaken"><img src="https://img.shields.io/badge/github-Profile-informational?style=flat&logo=github&color=black" /></a>
+  <a href="https://linkedin.com/in/muhammadhamka"><img src="https://img.shields.io/badge/linkedin-Connect-blue?style=flat&logo=linkedin" /></a>
 </p>
 
 ---
